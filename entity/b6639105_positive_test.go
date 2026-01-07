@@ -6,6 +6,7 @@ import(
 	"test/entity"
 )
 
+//positive
 func TestEmployeesValid(t *testing.T){
 	g := NewGomegaWithT(t)
 
